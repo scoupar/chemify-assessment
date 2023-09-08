@@ -1,4 +1,6 @@
-This is a To Do List app, created for the front end technical assessment for Chemify.
+This is a To Do List app, created for the front end technical assessment for Chemify. The app has the ability to create a new task, view all tasks, update the status of the task and delete the task.
+
+This was built using TypeScriptm, Next.js and Tailwind CSS
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
